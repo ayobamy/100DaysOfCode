@@ -7,4 +7,5 @@ Working with variables to manage data
 [x] - print function
 [x] - input function
 [x] - strings manipulation
-[x] - built a band name generator program
+[x] - varibales
+[x] - band name generator program
