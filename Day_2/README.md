@@ -11,3 +11,4 @@
 [x] - f-strings
 [x] - Body mass index (BMI) Calulator
 [x] - Tip Calclulator
+[x] - Life in weeks challenge
