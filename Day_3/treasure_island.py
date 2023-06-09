@@ -37,8 +37,13 @@ if (direction == "left"):
             print("You entered a room full of beasts. Game over!")
         elif (door_choice == 'blue'):
             print("You entered a room full of dragons. Game over!")
-        else:
+        elif (door_choice == 'yellow'):
             print("Yaaaayy! 🥳 You found the treasure. You won!")
+        else:
+            print("you choose a door that doesn't exist. Game Over!")
+    
+    else:
+        print("You got attacked by an angry trout. Game Over!")
 else:
     print("You lost. Game over!")
 
