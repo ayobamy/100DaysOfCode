@@ -41,7 +41,6 @@ if (direction == "left"):
             print("Yaaaayy! 🥳 You found the treasure. You won!")
         else:
             print("you choose a door that doesn't exist. Game Over!")
-    
     else:
         print("You got attacked by an angry trout. Game Over!")
 else:
