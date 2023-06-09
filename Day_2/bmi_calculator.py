@@ -6,5 +6,7 @@ height = input("Enter your height in meters(m): ")
 
 BMI = int(weight) / float(height) ** 2
 
-print(int(BMI), end=" ")
+BMI = round(BMI)
+
+print(BMI, end=" ")
 print("kg/m^2")
